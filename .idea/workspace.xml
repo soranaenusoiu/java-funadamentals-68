@@ -5,32 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e5bc0bc3-a402-4a48-8238-e1aecc1b0662" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-fundamentals-68-awesome.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sda/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sda/arrays/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sda/conditionals/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sda/dateAndTime/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sda/enums/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sda/enums/ZiSaptamana.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sda/loops/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sda/methods/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sda/oop/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sda/oop/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sda/operators/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sda/regex/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sda/statics/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sda/strings/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sda/teme/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sda/teme/Reducer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sda/teme/exercitiu/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sda/teme/exercitiu/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sda/wrappers/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sda/teme/exercitiu/task3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sda/teme/exercitiu/task3/Natural.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sda/teme/exercitiu/task4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sda/teme/task1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sda/teme/task2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sda/teme/exercitiu/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sda/teme/exercitiu/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sda/teme/exercitiu/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sda/teme/exercitiu/Student.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,5 +91,16 @@
       <updated>1700170904268</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

@@ -28,7 +28,7 @@ public class Student {
         numarTotalStudenti += 1;
     }
 
-    public final int getCODSTUDENT() {
+    public  int getcodstudent() {
         return codStudent;
     }
     public double mediaNotelorStudent() {

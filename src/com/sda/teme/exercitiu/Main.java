@@ -14,6 +14,6 @@ public class Main {
 
         System.out.println("Varsta Mariei este: " + Maria.getVarsta());
         System.out.println("Varsta lui Ion este: " + Ion.getVarsta());
-        System.out.println("Codul student al Mariei este " + Maria.getCODSTUDENT());
+        System.out.println("Codul student al Mariei este " + Maria.getcodstudent());
     }
 }
