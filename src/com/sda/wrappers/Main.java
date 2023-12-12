@@ -29,7 +29,7 @@ public class Main {
         // wrapper -> sir de caractere
         String numarLongSir = numarLong.toString();
         String numarDobleSir = numarDouble.toString();
-        System.out.println(numarLongSir + " " + numarDobleSir);
+        System.out.println(numarLongSir + "  " + numarDobleSir);
 
         // sir de caractere -> wrapper
         String numarString = "12345.67";
