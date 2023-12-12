@@ -1,4 +1,4 @@
-package com.sda.teme;
+package com.sda.teme.exercitiiWorkbook;
 
 
 public class Reducer {

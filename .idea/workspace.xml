@@ -4,15 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e5bc0bc3-a402-4a48-8238-e1aecc1b0662" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/sda/teme/exercitiu/task3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sda/teme/exercitiu/task3/Natural.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sda/teme/exercitiu/task4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sda/teme/task1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sda/teme/task2/Main.java" afterDir="false" />
+    <list default="true" id="e5bc0bc3-a402-4a48-8238-e1aecc1b0662" name="Changes" comment="first commit">
+      <change afterPath="$PROJECT_DIR$/src/com/sda/teme/exercitiiFinal/task123/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sda/teme/exercitiiFinal/task3/Natural.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sda/teme/exercitiiFinal/task4/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sda/teme/exercitiu/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sda/teme/exercitiu/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sda/teme/exercitiu/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sda/teme/exercitiu/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sda/teme/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sda/teme/exercitiiWorkbook/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sda/teme/Reducer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sda/teme/exercitiiWorkbook/Reducer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sda/teme/exercitiu/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sda/teme/tema2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sda/teme/exercitiu/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sda/teme/tema2/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sda/teme/exercitiu/task3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sda/teme/exercitiiFinal/task3/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sda/teme/task1/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sda/teme/task2/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +47,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/java course 23/java-fundamentals-68-awesome/src/com/sda"
   }
 }]]></component>
@@ -90,6 +93,15 @@
       <option name="presentableId" value="Default" />
       <updated>1700170904268</updated>
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1702331232849</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1702331232850</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -102,5 +114,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
 </project>

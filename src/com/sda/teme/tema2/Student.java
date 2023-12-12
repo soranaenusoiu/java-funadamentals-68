@@ -1,4 +1,4 @@
-package com.sda.teme.exercitiu;
+package com.sda.teme.tema2;
 
 
 import java.time.LocalDate;
