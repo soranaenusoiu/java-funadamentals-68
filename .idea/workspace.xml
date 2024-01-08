@@ -5,17 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e5bc0bc3-a402-4a48-8238-e1aecc1b0662" name="Changes" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/src/com/sda/teme/exercitiiFinal/task123/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sda/teme/exercitiiFinal/task3/Natural.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sda/teme/exercitiiFinal/task4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sda/codingFundamentals/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sda/codingFundamentals/Task10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sda/codingFundamentals/Task10extra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sda/codingFundamentals/Task11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sda/codingFundamentals/Task19/Author.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sda/codingFundamentals/Task19/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sda/codingFundamentals/Task19/Poem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sda/codingFundamentals/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sda/codingFundamentals/Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sda/codingFundamentals/Task4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sda/codingFundamentals/Task5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sda/codingFundamentals/Task6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sda/codingFundamentals/Task7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sda/codingFundamentals/Task7extra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sda/codingFundamentals/Task8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sda/codingFundamentals/Task9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sda/codingFundamentals/Task9extra.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sda/teme/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sda/teme/exercitiiWorkbook/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sda/teme/Reducer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sda/teme/exercitiiWorkbook/Reducer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sda/teme/exercitiu/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sda/teme/tema2/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sda/teme/exercitiu/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sda/teme/tema2/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sda/teme/exercitiu/task3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sda/teme/exercitiiFinal/task3/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sda/teme/task1/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sda/teme/task2/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,11 +55,12 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/java course 23/java-fundamentals-68-awesome/src/com/sda"
+    "last_opened_file_path": "C:/java course 23/java-fundamentals-68-awesome/src/com/sda/codingFundamentals"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\java course 23\java-fundamentals-68-awesome\src\com\sda\codingFundamentals" />
       <recent name="C:\java course 23\java-fundamentals-68-awesome\src\com\sda" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -78,9 +86,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Task24" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sda.codingFundamentals.Task24" />
+      <module name="java-fundamentals-68-awesome" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sda.codingFundamentals.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Task24" />
       </list>
     </recent_temporary>
   </component>
